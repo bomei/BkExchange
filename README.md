@@ -1,2 +1,2 @@
 # BkExchange
-An simple exchange for quant backtest
+A simple exchange for quant backtest
